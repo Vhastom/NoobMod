@@ -1,0 +1,18 @@
+{
+  "Name": "Roblox Noob mod",
+  "Author": "Venom357",
+  "Description": "This mod add noob to People Playground",
+  "ModVersion": "1.0",
+  "GameVersion": "1.11",
+  "ThumbnailPath": "NoobThumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "script.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
